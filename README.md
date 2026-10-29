@@ -28,7 +28,10 @@
 
   <a href="https://www.credly.com/badges/7e9f22a0-b82b-464e-a736-1c5f02761df1/public_url">
     <img alt="image" src="https://github.com/user-attachments/assets/2eff76b9-68f7-4c67-aad1-1c0c0ecf23d6" width="150">
+  </a>
 
+  <a href="https://www.credly.com/badges/7c72813d-25c1-44c3-ba02-c4dfe656ddf0/public_url">
+    <img alt="image" src="https://github.com/user-attachments/assets/36dbd27c-f75f-4e81-ae91-b887fbe131d1" width="150">
   </a>
 </p>
 

@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Raiza👋</h1>
-<h3 align="center">Web & Mobile Developer • Designer</h3>
+<h3 align="center">Web & Mobile Developer</h3>
 
 
 # 💫 About Me:
 💻 Interested in web and mobile application development<br>
-🎨 Passionate about UI/UX and digital design<br>
 🚀 Currently exploring AI and new technologies<br>
 🧠 Always learning and improving my development skills<br>
 🧶 Outside of coding, I enjoy crocheting, badminton, watching movies, and creative projects<br>
